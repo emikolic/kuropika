@@ -1,0 +1,2 @@
+# kuropika
+Personal assistant app
